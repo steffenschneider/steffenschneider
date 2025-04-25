@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @steffenschneider
+- 👋 Hi, I’m @steffenschneider located in the greater Basel area
 - 👀 I’m interested in software testing, software development and data science
 - 🌱 I’m currently learning Machine learning and Deep learning
 <!---
